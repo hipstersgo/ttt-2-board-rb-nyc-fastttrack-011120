@@ -1,6 +1,6 @@
 board =
 
-board = [__|__|__]
+board = [" " , " " , " "]
 Position 1: Left
 row[0]
 Postion 2: Middle
